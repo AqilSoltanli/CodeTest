@@ -1,0 +1,8 @@
+red
+blue
+white
+black
+yellow
+brown
+grey
+aqua
